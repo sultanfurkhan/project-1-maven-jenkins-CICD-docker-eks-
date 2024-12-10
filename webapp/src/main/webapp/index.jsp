@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>VEERA SIR PLEASE RESCHEDULE THE JOB REDINESS TIMINGS FROM 5PM TO 1PM THANKYOU </h1>
+    <h1>VEERA SIR PLEASE RESCHEDULE THE JOB REDINESS TIMINGS FROM 5PM TO 1PM T </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
